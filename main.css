@@ -11794,11 +11794,11 @@ textarea::-webkit-scrollbar {
 }
 
 .theme-dark .wrapper-2TxpI8, .theme-dark .attachment-33OFj0 {
-    transition: 0.1s ease-in-out
+    transition: 0.15s ease-in-out
 }
 
 .theme-dark .attachment-33OFj0:hover, .theme-dark .wrapper-2TxpI8:hover {
-    background: rgba(60, 60, 60, 0.6)    
+    background: rgba(255, 255, 255, 0.1)    
 }
 
 .downloadWrapper-vhAtLx {
