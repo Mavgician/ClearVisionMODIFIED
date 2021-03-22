@@ -6855,7 +6855,7 @@ textarea::-webkit-scrollbar {
     left: -40px;
     opacity: 0.8;
     -webkit-filter: blur(4px);
-    filter: blur(4px);
+    filter: blur(2px);
     animation: menufadein 0.3s 1 forwards ease-out
 }
 
