@@ -784,7 +784,7 @@ textarea,
     transform: rotateY(180deg) rotateZ(-90deg) translateY(3px)
 }
 
-.layer-3QrUeG .wrapper-1Rf91z {
+.scroller-1Bvpku {
     background-color: rgb(var(--guildbg), calc(var(--sidebaropacity) * 1.2))
 }
 
@@ -887,7 +887,7 @@ ul.tree-3tCaw8 {
     filter: drop-shadow(0 0 3px var(--main-color))
 }
 
-.wrapper-21YSNc .expandedFolderBackground-2sPsd- {
+.expandedFolderBackground-2sPsd- {
     background: rgba(var(--guildbg), 0.1);
     border-radius: 16px 16px 24px 24px;
     filter: invert(100%);
