@@ -6076,6 +6076,10 @@ code {
     background: var(--main-color)
 }
 
+.appMount-3lHmkl .lookFilled-1Gx00P.colorGreen-29iAKY {
+    border-radius: 99999px
+}
+
 .appMount-3lHmkl .lookFilled-1Gx00P.colorGreen-29iAKY:hover,
 .appMount-3lHmkl .hasHover-3X1-zV.lookFilled-1Gx00P.colorGreen-29iAKY:hover,
 .appMount-3lHmkl .lookFilled-1Gx00P.colorBrand-3pXr91:hover,
@@ -11177,7 +11181,8 @@ textarea::-webkit-scrollbar {
 }
 
 .wrapper-35wsBm {
-    background-color: rgba(0, 0, 0, 0.4)
+    background-color: var(--embedcol);
+    border-radius: 20px
 }
 
 .guildName-2hvnt_ {
