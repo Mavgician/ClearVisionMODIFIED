@@ -325,7 +325,7 @@ textarea,
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-    content: "v1.1.8b";
+    content: "v1.1.8r";
     color: rgba(255, 255, 255, 0.3);
     font-family: var(--code-font);
     font-size: 10px
@@ -387,7 +387,7 @@ textarea,
 }
 
 .typeMacOS-3EmCyP:after {
-    content: "1.1.8b";
+    content: "1.1.8r";
     color: rgba(255, 255, 255, 0.3)
 }
 
@@ -1540,7 +1540,7 @@ ul.tree-3tCaw8 {
 }
 
 .container-3baos1:after {
-    content: "v1.1.8b";
+    content: "v1.1.8r";
     left: 50%;
     text-align: left;
     opacity: 0;
@@ -6236,12 +6236,12 @@ textarea::-webkit-scrollbar {
 
 .numberBadge-2s8kKX,
 .textBadge-1iylP6 {
-    background: var(--main-color) !important;
-    box-shadow: 0 0 10px -3px var(--main-color), 0 0 0 1px var(--main-color);
+    background: var(--calliconbg) !important;
+    box-shadow: 0 0 10px -3px var(--calliconbg), 0 0 0 1px var(--calliconbg);
     color: #fff;
     font-weight: 600;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
-    transition: all .3s ease-in-out
+    transition: all .3s ease-in-out;
 }
 
 .numberBadge-2s8kKX {
