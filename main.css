@@ -325,7 +325,7 @@ textarea,
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-    content: "v1.2.3";
+    content: "v1.2.4";
     color: rgba(255, 255, 255, 0.3);
     font-family: var(--code-font);
     font-size: 10px
@@ -387,7 +387,7 @@ textarea,
 }
 
 .typeMacOS-3EmCyP:after {
-    content: "v1.2.3";
+    content: "v1.2.4";
     color: rgba(255, 255, 255, 0.3)
 }
 
@@ -1540,7 +1540,7 @@ ul.tree-3tCaw8 {
 }
 
 .container-3baos1:after {
-    content: "v1.2.3";
+    content: "v1.2.4";
     left: 50%;
     text-align: left;
     opacity: 0;
@@ -12098,4 +12098,8 @@ textarea::-webkit-scrollbar {
 
 .headerTop-3vNv-a {
 	background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.85) 100%)
+}
+
+.attachedBars-tZDmyV, .replyBar-1YLQ2F {
+	background: transparent
 }
