@@ -11223,7 +11223,7 @@ textarea::-webkit-scrollbar {
 }
 
 .nowPlayingColumn-2sl4cE {
-    background-color: rgba(var(--guildbg));
+    background-color: rgb(var(--guildbg), calc(var(--sidebaropacity) * 1.2));
     max-width: var(--members-width)
 }
 
