@@ -1,7 +1,7 @@
 /*! Powered by DiscordSelectors v0.2.7 */
 :root {
     --main-color: #2780e6;
-    --menucol: #170000;
+    --menucol: 0, 20, 0;
     --menucolopac: 1;
     --popoutline: #fff;
     --uploadbackground: rgba(21, 21, 21, 0.85);
@@ -6579,7 +6579,7 @@ textarea::-webkit-scrollbar {
     border-bottom-color: var(--main-color)
 }
 
-.userPopout-3XzG_A {
+.userPopout-xaxa6l {
     position: relative;
     max-height: calc(100vh - 40px);
     border-radius: 10px;
@@ -6611,7 +6611,7 @@ textarea::-webkit-scrollbar {
 }
 
 
-.userPopout-3XzG_A:before {
+.userPopout-xaxa6l:before {
     content: "";
     position: absolute;
     top: 0;
@@ -6625,138 +6625,138 @@ textarea::-webkit-scrollbar {
     z-index: -1
 }
 
-.animatorLeft-1EQxU0 > .userPopout-3XzG_A {
+.animatorLeft-1EQxU0 > .userPopout-xaxa6l {
     margin-right: -16px;
     transform-origin: 100% 50%
 }
 
-.userPopout-3XzG_A .header-2BwW8b {
+.userPopout-xaxa6l .header-2BwW8b {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)) center/cover
 }
 
-.userPopout-3XzG_A .headerStreaming-2FjmGz {
+.userPopout-xaxa6l .headerStreaming-2FjmGz {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)) center/cover, linear-gradient(to bottom, rgba(89, 54, 149, 0.4) 93%, transparent 100%)
 }
 
-.userPopout-3XzG_A .headerSpotify-zpWxgT {
+.userPopout-xaxa6l .headerSpotify-zpWxgT {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)) center/cover, linear-gradient(to bottom, rgba(29, 185, 84, 0.4) 93%, transparent 100%)
 }
 
-.userPopout-3XzG_A .headerXbox-3G-4PF {
+.userPopout-xaxa6l .headerXbox-3G-4PF {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)) center/cover, linear-gradient(to bottom, rgba(16, 124, 16, 0.4) 93%, transparent 100%)
 }
 
-.userPopout-3XzG_A .headerXbox-3G-4PF .actionsUserPopout-2MrzCa > .button-38aScr {
+.userPopout-xaxa6l .headerXbox-3G-4PF .actionsUserPopout-2MrzCa > .button-38aScr {
     background: rgba(16, 124, 16, 0.3)
 }
 
-.userPopout-3XzG_A .headerXbox-3G-4PF .actionsUserPopout-2MrzCa > .button-38aScr:hover {
+.userPopout-xaxa6l .headerXbox-3G-4PF .actionsUserPopout-2MrzCa > .button-38aScr:hover {
     background: rgba(16, 124, 16, 0.5)
 }
 
-.userPopout-3XzG_A .activityUserPopout-2yItg2 {
+.userPopout-xaxa6l .activityUserPopout-2yItg2 {
     background: rgba(0, 0, 0, 0.04)
 }
 
-.userPopout-3XzG_A .mobileIndicator-29f8Xh {
+.userPopout-xaxa6l .mobileIndicator-29f8Xh {
     color: rgba(255, 255, 255, 0.4)
 }
 
-.userPopout-3XzG_A .nameTag-m8r81H {
+.userPopout-xaxa6l .nameTag-m8r81H {
     overflow: visible
 }
 
-.userPopout-3XzG_A .actionsUserPopout-2MrzCa > .button-38aScr,
-.userPopout-3XzG_A .listeningActionsUserPopout-Ga2V_N > .button-38aScr {
+.userPopout-xaxa6l .actionsUserPopout-2MrzCa > .button-38aScr,
+.userPopout-xaxa6l .listeningActionsUserPopout-Ga2V_N > .button-38aScr {
     flex-grow: 1
 }
 
-.userPopout-3XzG_A .body-3iLsc4 {
+.userPopout-xaxa6l .body-3iLsc4 {
     background: rgba(0, 0, 0, 0.65)
 }
 
-.userPopout-3XzG_A .bodyInner-245q0L {
+.userPopout-xaxa6l .bodyInner-245q0L {
     background: transparent
 }
 
-.userPopout-3XzG_A .bodyTitle-Y0qMQz {
+.userPopout-xaxa6l .bodyTitle-Y0qMQz {
     color: rgba(255, 255, 255, 0.7);
     flex-shrink: 0
 }
 
-.userPopout-3XzG_A .rolesList-22qj2L {
+.userPopout-xaxa6l .rolesList-22qj2L {
     margin-top: 0
 }
 
-.userPopout-3XzG_A #permissions-popout {
+.userPopout-xaxa6l #permissions-popout {
     display: flex;
     flex-direction: column;
     flex-shrink: 1
 }
 
-.userPopout-3XzG_A #permissions-popout > .rolesList-22qj2L {
+.userPopout-xaxa6l #permissions-popout > .rolesList-22qj2L {
     max-height: unset
 }
 
-.userPopout-3XzG_A .note-3HfJZ5 > textarea {
+.userPopout-xaxa6l .note-3HfJZ5 > textarea {
     background: transparent;
     color: rgba(255, 255, 255, 0.8)
 }
 
-.userPopout-3XzG_A .note-3HfJZ5 > textarea:focus {
+.userPopout-xaxa6l .note-3HfJZ5 > textarea:focus {
     background: transparent
 }
 
-.userPopout-3XzG_A .note-3HfJZ5 > textarea::-moz-placeholder {
+.userPopout-xaxa6l .note-3HfJZ5 > textarea::-moz-placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .note-3HfJZ5 > textarea:-ms-input-placeholder {
+.userPopout-xaxa6l .note-3HfJZ5 > textarea:-ms-input-placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .note-3HfJZ5 > textarea::-ms-input-placeholder {
+.userPopout-xaxa6l .note-3HfJZ5 > textarea::-ms-input-placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .note-3HfJZ5 > textarea::placeholder {
+.userPopout-xaxa6l .note-3HfJZ5 > textarea::placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .footer-1fjuF6 {
+.userPopout-xaxa6l .footer-1fjuF6 {
     background: rgba(0, 0, 0, 0.65);
     border-color: rgba(255, 255, 255, 0.04)
 }
 
-.userPopout-3XzG_A .quickMessage-1yeL4E {
+.userPopout-xaxa6l .quickMessage-1yeL4E {
     background: rgba(0, 0, 0, 0.3);
     border-color: transparent;
     color: #fff;
     transition: all .3s ease-in-out
 }
 
-.userPopout-3XzG_A .quickMessage-1yeL4E::-moz-placeholder {
+.userPopout-xaxa6l .quickMessage-1yeL4E::-moz-placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .quickMessage-1yeL4E:-ms-input-placeholder {
+.userPopout-xaxa6l .quickMessage-1yeL4E:-ms-input-placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .quickMessage-1yeL4E::-ms-input-placeholder {
+.userPopout-xaxa6l .quickMessage-1yeL4E::-ms-input-placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .quickMessage-1yeL4E::placeholder {
+.userPopout-xaxa6l .quickMessage-1yeL4E::placeholder {
     color: rgba(255, 255, 255, 0.5)
 }
 
-.userPopout-3XzG_A .quickMessage-1yeL4E:focus {
+.userPopout-xaxa6l .quickMessage-1yeL4E:focus {
     border-color: var(--main-color);
     box-shadow: 0 0 1px var(--main-color)
 }
 
-.userPopout-3XzG_A .tip-2ab612 {
+.userPopout-xaxa6l .tip-2ab612 {
     color: rgba(255, 255, 255, 0.5);
     opacity: 1
 }
@@ -11223,7 +11223,7 @@ textarea::-webkit-scrollbar {
 }
 
 .nowPlayingColumn-2sl4cE {
-    background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+    background-color: rgba(var(--guildbg));
     max-width: var(--members-width)
 }
 
@@ -11854,6 +11854,17 @@ textarea::-webkit-scrollbar {
     border: 1px solid rgba(255, 255, 255, 0.1)
 }
 
+.tutorial-3w5I9h {
+	background: rgba(255, 255, 255, 0.2);
+}
+
+.channel-3pEHab {
+	padding-bottom: 0;
+	margin-bottom: 16px;
+	background: rgba(255, 255, 255, 0.2);
+	border-radius: 10px;
+}
+
 .messages-3G3erD,
 .channelHeader-3Gd2xq {
     padding-right: 10px;
@@ -12039,4 +12050,48 @@ textarea::-webkit-scrollbar {
     background-color: rgb(var(--menucol));
     border-radius: 8px;
     border: 1px solid rgba(255, 255, 255, 0.1)
+}
+
+.bodyInnerWrapper-26fQXj {
+	background: transparent
+}
+
+.userPopout-xaxa6l .activityUserPopout-2yItg2 {
+	background: rgba(0, 0, 0, .2);
+	border-radius: 10px;
+}
+
+.activityUserPopout-2yItg2 {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.footer-3UKYOU {
+	background: transparent;
+}
+
+.textarea-2r0oV8 {
+	transition: 0.2s;
+}
+
+.note-1oo11U {
+	margin: 0;
+	width: 267px;
+}
+
+.textarea-2r0oV8:focus {
+	background: inherit;
+}
+
+.section-2gLsgF {
+	margin: 5px 0 5px 0;
+	background: rgba(255, 255, 255, 0.1);
+}
+
+.theme-dark .inset-3sAvek, .peopleList-3c4jOR {
+	background: transparent;
+}
+
+.itemCard-v9viV7 {
+	background: rgba(var(--menucol), 0.3);
 }
