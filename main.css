@@ -325,7 +325,7 @@ textarea,
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-    content: "v1.2.1";
+    content: "v1.2.2";
     color: rgba(255, 255, 255, 0.3);
     font-family: var(--code-font);
     font-size: 10px
@@ -387,7 +387,7 @@ textarea,
 }
 
 .typeMacOS-3EmCyP:after {
-    content: "v1.2.1";
+    content: "v1.2.2";
     color: rgba(255, 255, 255, 0.3)
 }
 
@@ -1540,7 +1540,7 @@ ul.tree-3tCaw8 {
 }
 
 .container-3baos1:after {
-    content: "v1.2.1";
+    content: "v1.2.2";
     left: 50%;
     text-align: left;
     opacity: 0;
@@ -6621,7 +6621,7 @@ textarea::-webkit-scrollbar {
     margin: calc(-2 * var(--user-popout-blur));
     background: var(--user-popout-image) var(--user-popout-position)/var(--user-popout-size) var(--user-popout-repeat) var(--user-popout-attachment);
     -webkit-filter: grayscale(var(--user-popout-grayscale)) sepia(var(--user-popout-sepia)) invert(var(--user-popout-invert)) brightness(var(--user-popout-brightness)) contrast(var(--user-popout-contrast)) saturate(var(--user-popout-saturation)) blur(var(--user-popout-blur));
-    filter: grayscale(var(--user-popout-grayscale)) sepia(var(--user-popout-sepia)) invert(var(--user-popout-invert)) brightness(var(--user-popout-brightness)) contrast(var(--user-popout-contrast)) saturate(var(--user-popout-saturation)) blur(var(--user-popout-blur));
+    filter: brightness(45%) blur(2px);
     z-index: -1
 }
 
@@ -8042,7 +8042,7 @@ textarea::-webkit-scrollbar {
 
 .input-cIJ7To {
     color: #fff;
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: rgba(0, 0, 0, 0.2);
     border: none;
     box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.07)
 }
@@ -12094,4 +12094,8 @@ textarea::-webkit-scrollbar {
 
 .itemCard-v9viV7 {
 	background: rgba(var(--menucol), 0.3);
+}
+
+.headerTopWithCustomStatus-1DHAjX {
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.85) 100%)
 }
